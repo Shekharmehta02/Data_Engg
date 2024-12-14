@@ -1,0 +1,7 @@
+2024-12-14 19:00:34,642 - INFO - Logging setup completed successfully.
+2024-12-14 19:00:34,643 - INFO - MySQL configuration loaded successfully.
+2024-12-14 19:00:34,644 - INFO - MSSQL configuration loaded successfully.
+2024-12-14 19:00:34,668 - INFO - MySQL DB connection made successfully.
+2024-12-14 19:00:34,851 - INFO - MSSQL DB connection made successfully.
+2024-12-14 19:00:34,852 - INFO - MySQL and MSSQL connections established successfully.
+2024-12-14 19:00:34,872 - INFO - Migration completed and database connections closed successfully.
